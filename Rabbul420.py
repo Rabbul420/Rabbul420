@@ -59,10 +59,10 @@ logo = """
 ╰╯╰━┻╯╰┻━━┻━━┻━━┻━╯
 
 
-       facebook:.Normal.User.00420
+       facebook:. Normal.User.00420
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;Normal.User.00420
-\033[1;96mInstagram \033[1;93m: \033[1: Rabbu-420
+\033[1;96mAuthor  \033[1;93m: \033[1; Normal.User.00420
+\033[1;96mInstagram \033[1;93m: \033[1:  Rabbul-420
 \033[1;96mFacebook  \033[1;93m: \033[1: Normal.User.00420
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Rabbul420/Rabbul420
 \033[1;91m======================================="""
@@ -96,11 +96,11 @@ print  """\033[1;91m
 ╰╯╰━┻╯╰┻━━┻━━┻━━┻━╯
 
 
-       Facebook:Normal.User.00420
+       Facebook: Normal.User.00420
  
-\033[1;96mAuthor  \033[1;93m: \033[1;Rabbul420
-\033[1;96mInstagram \033[1;93m: \033[1;Rabbul-420
-\033[1;96mFacebook  \033[1;93m: \033[1;Normal.User.00420
+\033[1;96mAuthor  \033[1;93m: \033[1; Rabbul420
+\033[1;96mInstagram \033[1;93m: \033[1; Rabbul-420
+\033[1;96mFacebook  \033[1;93m: \033[1; Normal.User.00420
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Rabbul420/Rabbul420
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
